@@ -25,10 +25,10 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 - [x] Normalize categorical values (employment type, loan purpose)
 
 ### 1.4 Feature Engineering
-- [ ] Calculate Financial Ratios: Debt-to-income, credit utilization
-- [ ] Extract Behavioral Features: Delayed payments, monthly spend stability
-- [ ] Compute Derived Metrics: Rolling 6-month delinquencies, volatility of account balance
-- [ ] Process Bureau Features: Number of past defaults, enquiry rate
+- [x] Calculate Financial Ratios: Debt-to-income, credit utilization
+- [x] Extract Behavioral Features: Delayed payments, monthly spend stability
+- [x] Compute Derived Metrics: Rolling 6-month delinquencies, volatility of account balance
+- [x] Process Bureau Features: Number of past defaults, enquiry rate
 
 ### 1.5 Feature Encoding
 - [ ] Implement one-hot encoding for categorical variables
