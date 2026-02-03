@@ -36,8 +36,8 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 - [x] Set up target encoding with leakage prevention
 
 ### 1.6 Data Storage
-- [ ] Configure Data Lake for raw and refined datasets
-- [ ] Set up Data Warehouse for curated, aggregated tables
+- [x] Configure Data Lake for raw and refined datasets
+- [x] Set up Data Warehouse for curated, aggregated tables
 
 ---
 

@@ -1,0 +1,9 @@
+{
+  "created_at": "2026-02-03T22:32:00.378901",
+  "structure": {
+    "bronze": "Raw, unprocessed data from source systems",
+    "silver": "Cleaned and validated data",
+    "gold": "Feature-engineered, analysis-ready data"
+  },
+  "datasets": {}
+}
