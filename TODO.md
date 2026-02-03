@@ -65,14 +65,14 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 - [x] Create histogram of predicted risk scores
 
 ### 3.2 Model Performance
-- [ ] Display AUC & KS values
+- [x] Display AUC & KS values
 
 ### 3.3 Insights
-- [ ] Build insight bar chart for feature importance
+- [x] Build insight bar chart for feature importance
 
 ### 3.4 Fairness Check
-- [ ] Implement comparison of average risk score by gender
-- [ ] Add bias detection metrics
+- [x] Implement comparison of average risk score by gender
+- [x] Add bias detection metrics
 
 ---
 
