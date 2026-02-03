@@ -31,9 +31,9 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 - [x] Process Bureau Features: Number of past defaults, enquiry rate
 
 ### 1.5 Feature Encoding
-- [ ] Implement one-hot encoding for categorical variables
-- [ ] Apply WOE (Weight of Evidence) encoding for explainability
-- [ ] Set up target encoding with leakage prevention
+- [x] Implement one-hot encoding for categorical variables
+- [x] Apply WOE (Weight of Evidence) encoding for explainability
+- [x] Set up target encoding with leakage prevention
 
 ### 1.6 Data Storage
 - [ ] Configure Data Lake for raw and refined datasets
