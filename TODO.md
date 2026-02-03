@@ -14,10 +14,10 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 - [ ] (Optional) Configure streaming ingestion for real-time risk scoring
 
 ### 1.2 Data Quality Validation
-- [ ] Implement missing value check
-- [ ] Add data type & schema validation
-- [ ] Build outlier detection mechanism
-- [ ] Handle duplicate records
+- [x] Implement missing value check
+- [x] Add data type & schema validation
+- [x] Build outlier detection mechanism
+- [x] Handle duplicate records
 
 ### 1.3 Data Cleansing & Transformation
 - [ ] Implement missing field imputation logic
