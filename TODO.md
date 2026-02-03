@@ -8,9 +8,9 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 ## 1. ETL / Data Engineering Pipeline
 
 ### 1.1 Data Ingestion
-- [] Set up batch ingestion from core banking systems
-- [ ] Implement Bureau APIs integration
-- [ ] Connect to transaction databases
+- [x] Set up batch ingestion from core banking systems
+- [x] Implement Bureau APIs integration
+- [x] Connect to transaction databases
 - [ ] (Optional) Configure streaming ingestion for real-time risk scoring
 
 ### 1.2 Data Quality Validation
