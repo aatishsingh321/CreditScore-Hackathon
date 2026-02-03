@@ -86,10 +86,10 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 
 ## 5. Documentation & Deployment
 
-- [ ] Document project details in README.md
-- [ ] Push codebase to GitHub
-- [ ] Create API documentation for model inference
-- [ ] Set up CI/CD pipeline
+- [x] Document project details in README.md
+- [x] Push codebase to GitHub
+- [x] Create API documentation for model inference
+- [x] Set up CI/CD pipeline
 
 ---
 
