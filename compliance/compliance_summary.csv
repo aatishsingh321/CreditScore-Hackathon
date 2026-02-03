@@ -1,0 +1,2 @@
+total_applications,high_risk_count,high_risk_pct,low_risk_count,low_risk_pct,alerts_triggered,fairness_pass,attributes_analyzed
+2000,260,13.0,606,30.3,0,False,3

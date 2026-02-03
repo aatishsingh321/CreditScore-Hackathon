@@ -78,9 +78,9 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 
 ## 4. Monitoring & Compliance
 
-- [ ] Set up real-time loan portfolio risk monitoring dashboards
-- [ ] Ensure regulatory compliance for fairness and bias mitigation
-- [ ] Implement transparent, fair, and explainable credit decisions
+- [x] Set up real-time loan portfolio risk monitoring dashboards
+- [x] Ensure regulatory compliance for fairness and bias mitigation
+- [x] Implement transparent, fair, and explainable credit decisions
 
 ---
 

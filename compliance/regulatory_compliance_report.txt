@@ -1,0 +1,73 @@
+================================================================================
+REGULATORY COMPLIANCE REPORT - FAIRNESS & BIAS ANALYSIS
+================================================================================
+
+Generated: 2026-02-03 23:44:37
+Total Records Analyzed: 2,000
+Overall Compliance Status: ⚠ REVIEW REQUIRED
+
+================================================================================
+DETAILED ANALYSIS BY PROTECTED ATTRIBUTE
+================================================================================
+
+Attribute: Gender
+--------------------------------------------------------------------------------
+Statistical Parity Difference: 0.0195
+Disparate Impact Ratio: 0.8583
+Compliance Status: PASS
+Fair (80% rule): ✓ YES
+
+Group Statistics:
+  Female: Mean=0.3945, n=755
+  Male: Mean=0.4076, n=1245
+
+High-Risk Rates by Group:
+  Female: 11.79%
+  Male: 13.73%
+
+Attribute: Age Group
+--------------------------------------------------------------------------------
+Statistical Parity Difference: 0.0146
+Disparate Impact Ratio: 0.8958
+Compliance Status: PASS
+Fair (80% rule): ✓ YES
+
+Group Statistics:
+  Young: Mean=0.4034, n=677
+  Middle: Mean=0.4017, n=1209
+  Senior: Mean=0.4087, n=114
+
+High-Risk Rates by Group:
+  Young: 13.59%
+  Middle: 12.57%
+  Senior: 14.04%
+
+Attribute: Marital Status
+--------------------------------------------------------------------------------
+Statistical Parity Difference: 0.0315
+Disparate Impact Ratio: 0.7698
+Compliance Status: REVIEW
+Fair (80% rule): ✗ NO
+
+Group Statistics:
+  Divorced: Mean=0.4045, n=237
+  Married: Mean=0.4074, n=1075
+  Single: Mean=0.3938, n=631
+  Widowed: Mean=0.4027, n=57
+
+High-Risk Rates by Group:
+  Divorced: 10.97%
+  Married: 13.67%
+  Single: 12.84%
+  Widowed: 10.53%
+
+================================================================================
+COMPLIANCE NOTES
+================================================================================
+
+• Statistical Parity Difference (SPD) < 0.1 indicates fair treatment
+• Disparate Impact Ratio (DIR) > 0.8 satisfies the 80% rule (EEOC guideline)
+• All protected attributes should meet both criteria for full compliance
+• Manual review recommended for any attributes flagged for REVIEW
+
+================================================================================

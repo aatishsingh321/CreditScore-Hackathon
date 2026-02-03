@@ -1,0 +1,35 @@
+
+================================================================================
+ADVERSE ACTION NOTICE
+================================================================================
+
+Date: 2026-02-03
+Applicant ID: APP000022
+Decision: APPLICATION REQUIRES ADDITIONAL REVIEW
+
+Risk Score: 0.692 (High Risk Threshold: 0.60)
+
+PRIMARY FACTORS AFFECTING YOUR APPLICATION:
+
+  1. Overall Risk Assessment: HIGH RISK (Score: 0.692)
+  2. High debt-to-income ratio (97.20%)
+  3. History of defaults (2 previous defaults)
+  4. Stable employment history (13 years)
+
+================================================================================
+YOUR RIGHTS UNDER THE EQUAL CREDIT OPPORTUNITY ACT
+================================================================================
+
+You have the right to:
+• Receive a written statement of reasons for adverse action
+• Know the specific reasons for denial or unfavorable terms
+• Request additional information about the decision
+• File a complaint if you believe discrimination has occurred
+
+If you have questions or wish to appeal this decision, please contact:
+Credit Review Department
+Email: creditreview@example.com
+Phone: 1-800-XXX-XXXX
+
+This notice is provided in compliance with the Equal Credit Opportunity Act (15 U.S.C. § 1691 et seq.)
+================================================================================

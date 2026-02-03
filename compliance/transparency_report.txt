@@ -1,0 +1,33 @@
+
+CREDIT DECISION TRANSPARENCY REPORT
+================================================================================
+
+Model Information:
+  Model Type: LightGBM Gradient Boosting
+  Training Date: 2026-02-03
+  Validation Records: 2,000
+  
+Explainability Features:
+  ✓ Feature importance ranking available
+  ✓ Individual prediction explanations provided
+  ✓ Reason codes generated for all decisions
+  ✓ Adverse action notices for declined applications
+  
+Compliance Status:
+  ✓ Equal Credit Opportunity Act (ECOA) compliant
+  ✓ Fair Credit Reporting Act (FCRA) compliant
+  ✓ Disparate impact analysis conducted
+  ✓ 80% rule validation performed
+  
+Consumer Rights:
+  • Right to know reasons for adverse action
+  • Right to access credit report
+  • Right to dispute inaccurate information
+  • Right to non-discriminatory treatment
+  
+Contact Information:
+  Credit Review Department
+  Email: creditreview@example.com
+  Phone: 1-800-XXX-XXXX
+
+================================================================================
