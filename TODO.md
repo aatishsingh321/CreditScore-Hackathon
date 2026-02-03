@@ -20,9 +20,9 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 - [x] Handle duplicate records
 
 ### 1.3 Data Cleansing & Transformation
-- [ ] Implement missing field imputation logic
-- [ ] Standardize income & amount formats
-- [ ] Normalize categorical values (employment type, loan purpose)
+- [x] Implement missing field imputation logic
+- [x] Standardize income & amount formats
+- [x] Normalize categorical values (employment type, loan purpose)
 
 ### 1.4 Feature Engineering
 - [ ] Calculate Financial Ratios: Debt-to-income, credit utilization
