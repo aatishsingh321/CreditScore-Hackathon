@@ -62,7 +62,7 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 ## 3. Dashboard Visualization
 
 ### 3.1 Portfolio Risk Overview
-- [ ] Create histogram of predicted risk scores
+- [x] Create histogram of predicted risk scores
 
 ### 3.2 Model Performance
 - [ ] Display AUC & KS values

@@ -1,0 +1,2 @@
+total_portfolio,mean_risk,median_risk,std_risk,min_risk,max_risk,percentile_25,percentile_75,low_risk_count,medium_risk_count,high_risk_count,low_risk_pct,medium_risk_pct,high_risk_pct
+2000,0.4026565314973219,0.4074096829019593,0.1637303502739666,0.0613657956385439,0.7982418499339744,0.2737480773853995,0.5282906249264654,606,1134,260,30.3,56.699999999999996,13.0
