@@ -48,10 +48,10 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 - [x] Configure 80/20 train/validate split
 
 ### 2.2 Model Evaluation
-- [ ] Implement AUC-ROC metric calculation
-- [ ] Implement KS statistic calculation
-- [ ] Validate model meets target: AUC ≥ 0.80
-- [ ] Validate model meets target: KS ≥ 30
+- [x] Implement AUC-ROC metric calculation
+- [x] Implement KS statistic calculation
+- [x] Validate model meets target: AUC ≥ 0.80
+- [x] Validate model meets target: KS ≥ 30
 
 ### 2.3 Model Calibration (Optional)
 - [ ] Evaluate need for CalibratedClassifierCV

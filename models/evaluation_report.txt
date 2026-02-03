@@ -1,0 +1,36 @@
+================================================================================
+MODEL EVALUATION REPORT
+================================================================================
+
+1. DISCRIMINATION METRICS
+--------------------------------------------------------------------------------
+   AUC-ROC:           0.6764  ✗ FAIL (Target: ≥0.80)
+   KS Statistic:      26.30%  ✗ FAIL (Target: ≥30.0%)
+   KS Threshold:      0.3870
+   Gini Coefficient:  0.3528
+
+2. CLASSIFICATION METRICS
+--------------------------------------------------------------------------------
+   Accuracy:          0.6925
+   Precision:         0.3045
+   Recall:            0.5121
+   F1-Score:          0.3819
+   Specificity:       0.7336
+
+3. CONFUSION MATRIX
+--------------------------------------------------------------------------------
+   True Positives:    190
+   True Negatives:    1195
+   False Positives:   434
+   False Negatives:   181
+
+4. MODEL INTERPRETATION
+--------------------------------------------------------------------------------
+   AUC-ROC: POOR - Model has poor discrimination
+   KS Statistic: FAIR - Fair separation between classes
+
+5. VALIDATION SUMMARY
+--------------------------------------------------------------------------------
+   Overall Status:    ✗ FAIL
+
+================================================================================

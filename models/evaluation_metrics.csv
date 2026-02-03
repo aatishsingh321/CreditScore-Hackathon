@@ -1,0 +1,2 @@
+auc_roc,ks_statistic,ks_threshold,gini_coefficient,accuracy,precision,recall,f1_score,specificity,true_positives,true_negatives,false_positives,false_negatives,auc_target,auc_actual,auc_pass,ks_target,ks_actual,ks_pass,overall_pass
+0.6764092203475086,26.300427394975507,0.3870407635791162,0.3528184406950172,0.6925,0.30448717948717946,0.5121293800539084,0.38190954773869346,0.7335788827501535,190,1195,434,181,0.8,0.6764092203475086,False,30.0,26.300427394975507,False,False
