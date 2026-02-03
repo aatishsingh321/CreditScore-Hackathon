@@ -54,8 +54,8 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 - [x] Validate model meets target: KS ≥ 30
 
 ### 2.3 Model Calibration (Optional)
-- [ ] Evaluate need for CalibratedClassifierCV
-- [ ] Implement calibration if required
+- [x] Evaluate need for CalibratedClassifierCV
+- [x] Implement calibration if required
 
 ---
 
