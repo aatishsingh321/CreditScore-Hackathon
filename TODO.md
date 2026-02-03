@@ -44,8 +44,8 @@ Build a data-driven Credit Risk Scoring System that predicts the likelihood of a
 ## 2. Data Science Modeling
 
 ### 2.1 Model Development
-- [ ] Implement LightGBM model for credit risk prediction
-- [ ] Configure 80/20 train/validate split
+- [x] Implement LightGBM model for credit risk prediction
+- [x] Configure 80/20 train/validate split
 
 ### 2.2 Model Evaluation
 - [ ] Implement AUC-ROC metric calculation
